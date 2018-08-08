@@ -1,0 +1,8 @@
+{
+  "id" : 101,
+  "name" : "Tom Cruse",
+  "dateOfBirth" : 640846800000,
+  "annualSalary" : 2001.01,
+  "address" : [ ],
+  "payment" : [ ]
+}
